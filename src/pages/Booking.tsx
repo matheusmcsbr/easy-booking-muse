@@ -18,7 +18,7 @@ const Booking = () => {
     {
       id: 'consultation',
       title: 'Initial Consultation',
-      description: 'A comprehensive evaluation to understand your needs and goals. We'll discuss your requirements and create a personalized plan.',
+      description: 'A comprehensive evaluation to understand your needs and goals. We\'ll discuss your requirements and create a personalized plan.',
       duration: '30 min',
       price: 'Free',
       image: 'https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=1470&auto=format&fit=crop'
@@ -26,7 +26,7 @@ const Booking = () => {
     {
       id: 'strategy-session',
       title: 'Strategy Session',
-      description: 'Dive deep into planning and strategy. We'll map out actionable steps and create a roadmap for success based on your objectives.',
+      description: 'Dive deep into planning and strategy. We\'ll map out actionable steps and create a roadmap for success based on your objectives.',
       duration: '60 min',
       price: '$150',
       image: 'https://images.unsplash.com/photo-1664575602276-acd073f104c1?q=80&w=1470&auto=format&fit=crop'
@@ -42,7 +42,7 @@ const Booking = () => {
     {
       id: 'review',
       title: 'Progress Review',
-      description: 'Evaluate your progress, adjust strategies, and celebrate wins. We'll analyze results and refine our approach for optimal outcomes.',
+      description: 'Evaluate your progress, adjust strategies, and celebrate wins. We\'ll analyze results and refine our approach for optimal outcomes.',
       duration: '30 min',
       price: '$80',
       image: 'https://images.unsplash.com/photo-1553877522-43269d4ea984?q=80&w=1470&auto=format&fit=crop'
